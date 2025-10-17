@@ -1,0 +1,26 @@
+{
+  "name": "backend-stage0",
+  "version": "1.0.0",
+  "description": "Backend Wizards Stage 0 - Profile Endpoint with Dynamic Cat Facts",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "keywords": [
+    "api",
+    "express",
+    "backend",
+    "rest"
+  ],
+  "author": "Toluwani Oluwamuyiwa",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
